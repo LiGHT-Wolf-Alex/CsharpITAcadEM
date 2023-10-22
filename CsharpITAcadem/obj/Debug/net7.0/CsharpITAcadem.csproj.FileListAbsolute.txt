@@ -1,0 +1,14 @@
+D:\Курсы iT-academia\C#\CsharpITAcadem\CsharpITAcadem\bin\Debug\net7.0\CsharpITAcadem.exe
+D:\Курсы iT-academia\C#\CsharpITAcadem\CsharpITAcadem\bin\Debug\net7.0\CsharpITAcadem.deps.json
+D:\Курсы iT-academia\C#\CsharpITAcadem\CsharpITAcadem\bin\Debug\net7.0\CsharpITAcadem.runtimeconfig.json
+D:\Курсы iT-academia\C#\CsharpITAcadem\CsharpITAcadem\bin\Debug\net7.0\CsharpITAcadem.dll
+D:\Курсы iT-academia\C#\CsharpITAcadem\CsharpITAcadem\bin\Debug\net7.0\CsharpITAcadem.pdb
+D:\Курсы iT-academia\C#\CsharpITAcadem\CsharpITAcadem\obj\Debug\net7.0\CsharpITAcadem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Курсы iT-academia\C#\CsharpITAcadem\CsharpITAcadem\obj\Debug\net7.0\CsharpITAcadem.AssemblyInfoInputs.cache
+D:\Курсы iT-academia\C#\CsharpITAcadem\CsharpITAcadem\obj\Debug\net7.0\CsharpITAcadem.AssemblyInfo.cs
+D:\Курсы iT-academia\C#\CsharpITAcadem\CsharpITAcadem\obj\Debug\net7.0\CsharpITAcadem.csproj.CoreCompileInputs.cache
+D:\Курсы iT-academia\C#\CsharpITAcadem\CsharpITAcadem\obj\Debug\net7.0\CsharpITAcadem.dll
+D:\Курсы iT-academia\C#\CsharpITAcadem\CsharpITAcadem\obj\Debug\net7.0\refint\CsharpITAcadem.dll
+D:\Курсы iT-academia\C#\CsharpITAcadem\CsharpITAcadem\obj\Debug\net7.0\CsharpITAcadem.pdb
+D:\Курсы iT-academia\C#\CsharpITAcadem\CsharpITAcadem\obj\Debug\net7.0\CsharpITAcadem.genruntimeconfig.cache
+D:\Курсы iT-academia\C#\CsharpITAcadem\CsharpITAcadem\obj\Debug\net7.0\ref\CsharpITAcadem.dll
