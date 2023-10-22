@@ -7,6 +7,6 @@ class Program
     private static void Main()
     {
         var homework = new Homework4();
-        homework.FirstExercise();
+        homework.SecondExercise();
     }
 }
