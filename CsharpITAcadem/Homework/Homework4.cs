@@ -1,20 +1,24 @@
-﻿namespace CsharpITAcadem.Homework.Homevork;
+﻿namespace CsharpITAcadem.Homework;
 
-public interface IHomevork
+public class Homework4 : IHomework
 {
     public void FirstExercise()
     {
+        
     }
 
     public void SecondExercise()
     {
+        
     }
 
     public void ThirdExercise()
     {
+        
     }
 
     public void FourthExercise()
     {
+        
     }
 }
